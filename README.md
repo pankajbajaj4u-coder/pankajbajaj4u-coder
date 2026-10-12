@@ -191,7 +191,7 @@ Turning ideas into scalable solutions
 
 
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/pankajbajaj4u/">
 <img src="https://img.shields.io/badge/LinkedIn-Pankaj%20Bajaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
