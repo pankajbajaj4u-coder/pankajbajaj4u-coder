@@ -207,3 +207,8 @@ Turning ideas into scalable solutions
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
 
 </div>
+## 🔄 Contribution Flow
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pankajbajaj4u-coder/pankajbajaj4u-coder/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
