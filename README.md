@@ -41,7 +41,7 @@ I am passionate about building practical technology solutions that solve real-wo
 
 <td width="45%">
 
-```text
+
 ┌──────────────────────────────┐
 │       PANKAJ BAJAJ           │
 ├──────────────────────────────┤
@@ -240,4 +240,4 @@ Turning ideas into scalable solutions
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
 
 </div>
-```
+
