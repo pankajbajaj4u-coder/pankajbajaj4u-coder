@@ -1,99 +1,82 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Pankaj%20Bajaj&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Chief%20Operating%20Officer%20%7C%20GTH&descAlignY=58&descSize=20"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Chief+Operating+Officer+%7C+GTH;Technology+%7C+Operations+%7C+Innovation;Building+Technology+Driven+Solutions;AI+%7C+Web+%7C+Digital+Transformation" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Pankaj%20Bajaj&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Chief%20Operating%20Officer%20%7C%20GTH&descAlignY=58&descSize=20" width="100%"/>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/238210016-f4b0d2d1-fca4-4a32-8a24-7d4d6b2f6a77.gif" width="450"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=60&lines=Chief+Operating+Officer+%7C+GTH;Technology+%7C+Operations+%7C+Innovation;Building+Technology-Driven+Solutions;AI+%7C+Web+%7C+Digital+Transformation" alt="Typing SVG"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=pankajbajaj4u-coder&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=pankajbajaj4u-coder&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 ---
 
-# 👋 About Me
-
-<table>
-<tr>
-<td width="55%">
+## 👋 About Me
 
 ### Hi, I'm Pankaj Bajaj 👋
 
 I am a **Chief Operating Officer at GTH**, working at the intersection of **technology, operations, innovation and digital transformation**.
 
-I am passionate about building practical technology solutions that solve real-world problems and improve organizational efficiency.
+I focus on building practical technology solutions that solve real-world problems, improve organizational efficiency and enable scalable digital operations.
 
-- 🏢 Chief Operating Officer at **GTH**
-- 💻 Technology & Digital Transformation
-- 🤖 AI / ML & Intelligent Systems
-- 🌐 Full-Stack Web Development
-- 📊 Data-Driven Decision Making
-- 🚀 Product & Project Strategy
-- ⚙️ Business Process Optimization
-- 💡 Technology Innovation
+### What I Focus On
 
-</td>
+- 🏢 **Chief Operating Officer at GTH**
+- 💻 **Technology & Digital Transformation**
+- 🤖 **AI / ML & Intelligent Systems**
+- 🌐 **Full-Stack Web Development**
+- 📊 **Data-Driven Decision Making**
+- 🚀 **Product & Project Strategy**
+- ⚙️ **Business Process Optimization**
+- 💡 **Technology Innovation**
 
-<td width="45%">
+<br>
 
+<div align="center">
 
-┌──────────────────────────────┐
-│       PANKAJ BAJAJ           │
-├──────────────────────────────┤
-│                              │
-│  🏢 GTH                      │
-│  💼 COO                      │
-│  🤖 AI / ML                  │
-│  🌐 Full Stack Development   │
-│  📊 Technology Strategy      │
-│  🚀 Innovation               │
-│                              │
-└──────────────────────────────┘
-</td>
-</tr>
-</table>
-<table>
-<tr>
+┌──────────────────────────────────────────────┐
+│               PANKAJ BAJAJ                  │
+├──────────────────────────────────────────────┤
+│                                              │
+│  🏢 GTH                                     │
+│  💼 Chief Operating Officer                 │
+│  🤖 AI / Machine Learning                    │
+│  🌐 Full-Stack Development                   │
+│  📊 Technology Strategy                      │
+│  🚀 Innovation                               │
+│                                              │
+└──────────────────────────────────────────────┘
 
-<td width="50%">
-🧠 AI WATCH
+🚀 Featured Project
+<div align="center">
+
 <a href="https://github.com/pankajbajaj4u-coder/aiwatchgu">
-<img src="https://github-readme-stats-gules-alpha-89.vercel.app/api/pin/?username=pankajbajaj4u-coder&repo=aiwatchgu&theme=tokyonight&hide_border=true" />
+
+<img src="https://img.shields.io/badge/🧠%20AI%20WATCH-View%20Project-36BCF7?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 AI-Native Academic Command Center
 A technology platform focused on intelligent academic management, analytics, assessment and institutional monitoring.
-Focus:
-- AI-powered analytics
-- Academic management
-- Smart assessments
-- Institutional insights
-- Role-based control
-</td>
-
-<td width="50%">
+Core Focus
+AI Analytics • Academic Management • Smart Assessment • Institutional Insights • Role-Based Control
+</div>
 
 💻 GTH Technology Ecosystem
-<a href="https://github.com/pankajbajaj4u-coder">
-<img src="https://github-readme-stats-gules-alpha-89.vercel.app/api/pin/?username=pankajbajaj4u-coder&repo=pankaj&theme=tokyonight&hide_border=true" />
-</a>
-
 Technology-driven solutions developed around organizational operations, digital platforms and automation.
-Focus:
-- Web applications
-- Automation
-- Digital platforms
-- Business workflows
-- Operational efficiency
-</td>
-
-</tr>
-</table>
+Focus Areas
+- 🌐 Web Applications
+- ⚙️ Automation
+- 🔄 Digital Platforms
+- 📊 Business Workflows
+- 📈 Operational Efficiency
+- 🚀 Digital Transformation
+<a href="https://github.com/pankajbajaj4u-coder">
+<img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 🛠️ Technology Stack
 🎨 Frontend
@@ -110,7 +93,7 @@ Focus:
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/API-REST-0A0A0A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20API-0A0A0A?style=for-the-badge"/>
 </p>
 
 🗄️ Database & ORM
@@ -148,96 +131,79 @@ Focus:
 📚 Currently Exploring
 <div align="center">
 
-Area	Focus
-🤖 Artificial Intelligence	Intelligent systems & automation
-🧠 Machine Learning	Predictive & data-driven solutions
-🌐 Full-Stack Development	Scalable web platforms
-📊 Analytics	Data-driven decision making
-☁️ Cloud Technology	Modern deployment & infrastructure
-🚀 Digital Transformation	Technology-enabled operations
-
-
+🤖 Artificial Intelligence
+Intelligent systems & automation
+🧠 Machine Learning
+Predictive & data-driven solutions
+🌐 Full-Stack Development
+Scalable web platforms
+📊 Analytics
+Data-driven decision making
+☁️ Cloud Technology
+Modern deployment & infrastructure
+🚀 Digital Transformation
+Technology-enabled operations
 </div>
+
 📊 GitHub Performance
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-gules-alpha-89.vercel.app/api?username=pankajbajaj4u-coder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pankajbajaj4u-coder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajbajaj4u-coder&theme=tokyonight&hide_border=true"/>
-
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajbajaj4u-coder&theme=tokyonight&hide_border=true" height="180"/>
 
 
-<div align="center">
 
-<img src="https://github-readme-stats-gules-alpha-89.vercel.app/api/top-langs/?username=pankajbajaj4u-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-</div>
-
-🐍 Contribution Flow
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/pankajbajaj4u-coder/pankajbajaj4u-coder/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajbajaj4u-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
 💼 Professional Focus
-<table>
-<tr>
-<td align="center" width="25%">
+<div align="center">
 
-🏢
-Operations
+🏢 Operations
 Technology-enabled operational excellence
-</td>
 
-<td align="center" width="25%">
 
-🤖
-AI & Innovation
+
+🤖 AI & Innovation
 Building intelligent solutions
-</td>
 
-<td align="center" width="25%">
 
-🌐
-Technology
+
+🌐 Technology
 Modern digital platforms
-</td>
 
-<td align="center" width="25%">
 
-🚀
-Strategy
+
+🚀 Strategy
 Turning ideas into scalable solutions
-</td>
-</tr>
-</table>
+</div>
 
 🤝 Connect With Me
 <div align="center">
 
 <a href="https://github.com/pankajbajaj4u-coder">
-<img src="https://img.shields.io/badge/GitHub-pankajbajaj4u--coder-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Pankaj%20Bajaj-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<!-- Replace the placeholders below with Pankaj's actual profiles -->
 
-<a href="LINKEDIN_URL">
+
+
+<a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-Pankaj%20Bajaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:EMAIL_ADDRESS">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </div>
+
 
 <div align="center">
 
 💡 Building technology. Enabling innovation. Driving impact.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
 
 </div>
-
