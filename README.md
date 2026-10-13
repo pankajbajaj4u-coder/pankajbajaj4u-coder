@@ -227,6 +227,7 @@ Turning ideas into scalable solutions
 
 ## 🤝 Connect With Me
 
+
 <div align="center">
 
 <a href="https://github.com/pankajbajaj4u-coder">
@@ -235,6 +236,10 @@ Turning ideas into scalable solutions
 
 <a href="https://www.linkedin.com/in/pankajbajaj4u/">
 <img src="https://img.shields.io/badge/LinkedIn-Pankaj%20Bajaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
+<img src="https://img.shields.io/badge/Instagram-Pankaj%20Bajaj-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://geetauniversity.edu.in/edge/gth/">
