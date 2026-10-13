@@ -227,7 +227,6 @@ Turning ideas into scalable solutions
 
 ## 🤝 Connect With Me
 
-
 <div align="center">
 
 <a href="https://github.com/pankajbajaj4u-coder">
@@ -238,7 +237,7 @@ Turning ideas into scalable solutions
 <img src="https://img.shields.io/badge/LinkedIn-Pankaj%20Bajaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="[https://www.instagram.com/pankaj_bajaj4u/)/">
+<a href="https://www.instagram.com/pankaj_bajaj4u/">
 <img src="https://img.shields.io/badge/Instagram-Pankaj%20Bajaj-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
