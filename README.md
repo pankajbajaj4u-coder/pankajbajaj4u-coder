@@ -24,7 +24,7 @@ I focus on building practical technology solutions that solve real-world problem
 
 ### What I Focus On
 
-- 🏢 **Chief Operating Officer at GTH**
+- 🏢 **Chief Operating Officer at Geeta Technical Hub, Geeta University**
 - 💻 **Technology & Digital Transformation**
 - 🤖 **AI / ML & Intelligent Systems**
 - 🌐 **Full-Stack Web Development**
